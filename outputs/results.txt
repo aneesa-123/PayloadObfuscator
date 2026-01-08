@@ -1,0 +1,3 @@
+Original: malicious_command
+Base64: bWFsaWNpb3VzX2NvbW1hbmQ=
+...
